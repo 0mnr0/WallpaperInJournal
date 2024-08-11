@@ -1,0 +1,741 @@
+{
+	
+	0: {
+		wallpaperName: "Blade Runner",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/RayanGosling.jpeg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/RayanGslingBackground.mp4",
+		wallpaperEngineLink: null,
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	1: {
+		wallpaperName: "Lonely Samurai",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Lone_Samurai_Sekiro_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Lone_Samurai_Sekiro.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2130919433",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	3: {
+		wallpaperName: "In The Mountains",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/InTheMountain_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/InTheMountain.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1837650841",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	4: {
+		wallpaperName: "Japan Autumn",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Old%20House%20Japan%20Autumn%20Leaves%20-%20wallpaperwaifu_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Old%20House%20Japan%20Autumn%20Leaves%20-%20wallpaperwaifu.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2605094298",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	5: {
+		wallpaperName: "Komiwave",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/komivawe_preview.png?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/komiwave.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2391553844",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	6: {
+		wallpaperName: "Atelier",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/gray_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/gray_we.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3030675413",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	7: {
+		wallpaperName: "9mm",
+		wallpaperPreview: "https://raw.githubusercontent.com/0mnr0/WallpaperInJournal/main/WallItems/0109%20(1).gif",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/0109%20(1).mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3135364491",
+		tag: "Cars",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	8: {
+		wallpaperName: "Sachiro",
+		wallpaperPreview: "https://raw.githubusercontent.com/0mnr0/WallpaperInJournal/main/WallItems/Pinlin%20koi%201_preview.gif",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Pinlin%20koi%201.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2915222568",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	9: {
+		wallpaperName: "Demon Slayer",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/%E9%AC%BC%E6%9D%80%E9%98%9F_x264.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/%E9%AC%BC%E6%9D%80%E9%98%9F_x264.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1884879976",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	10: {
+		wallpaperName: "Ice Wolf",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/IceWolf_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/IceWolf.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3000492313",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	11: {
+		wallpaperName: "Inano",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/%E7%A8%BB%E9%87%8E%E7%9A%84%E5%B0%91%E5%A5%B3_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/%E7%A8%BB%E9%87%8E%E7%9A%84%E5%B0%91%E5%A5%B3.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3021987040",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	12: {
+		wallpaperName: "Pine Forest",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Aesthetic%20Pine%20Forest%20%5B4K%5D_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Aesthetic%20Pine%20Forest%20%5B4K%5D.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2844116483",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	13: {
+		wallpaperName: "Japan Forest",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/%E7%A7%8B%E6%9E%AB%EF%BC%88%E6%97%A0%E7%BC%9D%EF%BC%89_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/%E7%A7%8B%E6%9E%AB%EF%BC%88%E6%97%A0%E7%BC%9D%EF%BC%89.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2619919364",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	14: {
+		wallpaperName: "Crismon Forest",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/%E2%80%A2Crimson%E2%80%A2_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/%E2%80%A2Crimson%E2%80%A2.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1117892236",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	15: {
+		wallpaperName: "Roronoa",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Roronoa%20Zoro_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Roronoa%20Zoro.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3045773500",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	16: {
+		wallpaperName: "Rear LS400",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Rear%20LS400%20Shot%20@paradoxviis_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Rear%20LS400%20Shot%20@paradoxviis.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2986721963",
+		tag: "Cars",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	17: {
+		wallpaperName: "Dante - Heartbeat",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Y2mate.mx-Dante%20%20-%20Heartbeat%20%5BEDIT_4K%5D-(1080p60).gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Y2mate.mx-Dante%20%20-%20Heartbeat%20%5BEDIT_4K%5D-(1080p60).mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3149610244",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	18: {
+		wallpaperName: "Purple Moon",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/PURPLE%20NIGHT%20SKY%204K_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/PURPLE%20NIGHT%20SKY%204K.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3020093729",
+		tag: "Fantastic",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	19: {
+		wallpaperName: "John Sena",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/(Bxuz)%20John%20Cena%20FIFTY%20FIFTY%20-%20Cupid%20(sped%20up)_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/(Bxuz)%20John%20Cena%20FIFTY%20FIFTY%20-%20Cupid%20(sped%20up).mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2974651621",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	20: {
+		wallpaperName: "Evening Ride",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Evening%20ride_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Evening%20ride.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3003678074",
+		tag: "PixelArt",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	22: {
+		wallpaperName: "Rayan Gosling In Gta",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Ryon%20Gosling%20in%20GTA%205_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Ryon%20Gosling%20in%20GTA%205.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3014658702",
+		tag: "Games",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	23: {
+		wallpaperName: "Udzaki",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/%E5%85%BD%E8%80%B3%E7%94%B1%E5%B4%8E%E5%8F%B8_B%E7%AB%99%E7%94%B5%E6%AC%A1_Denji_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/%E5%85%BD%E8%80%B3%E7%94%B1%E5%B4%8E%E5%8F%B8_B%E7%AB%99%E7%94%B5%E6%AC%A1_Denji.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2999973780",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	24: {
+		wallpaperName: "Breaking Bad",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/%5B4K%5D%20Breaking%20Bad%E3%80%8CEdit%E3%80%8D-%20(Money%20Trees).jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/%5B4K%5D%20Breaking%20Bad%E3%80%8CEdit%E3%80%8D-%20(Money%20Trees).mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3008248015",
+		tag: "Films",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	25: {
+		wallpaperName: "Monika (Doki Doki)",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Monika(Doki%20Doki%20Literature%20Club%20Plus)%5B2K%5D_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Monika(Doki%20Doki%20Literature%20Club%20Plus)%5B2K%5D.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2975830332",
+		tag: "Games",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	26: {
+		wallpaperName: "Kitty and Flower",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Kitty-and%20Flower-4K_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Kitty-and%20Flower-4K.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2980712248",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	27: {
+		wallpaperName: "Rainy Stars",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/%E6%98%9F%E7%9A%84%E6%AC%A1%E5%85%83%E7%AA%81%E7%A0%B4_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/%E6%98%9F%E7%9A%84%E6%AC%A1%E5%85%83%E7%AA%81%E7%A0%B4.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3209676256",
+		tag: "Games",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	28: {
+		wallpaperName: "Homyachok",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/%D0%A5%D0%BE%D0%BC%D1%8F%D0%BA%20%D1%81%20%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%BC%D0%B8%20%D0%B3%D0%BB%D0%B0%D0%B7%D0%B0%D0%BC%D0%B8_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/%D0%A5%D0%BE%D0%BC%D1%8F%D0%BA%20%D1%81%20%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%BC%D0%B8%20%D0%B3%D0%BB%D0%B0%D0%B7%D0%B0%D0%BC%D0%B8.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3166786986",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	29: {
+		wallpaperName: "O Holera",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Freddy.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Freddy.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3036055574",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	30: {
+		wallpaperName: "Russian Kid dancing at club",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Russian%20kid%20dancing%20at%20club_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Russian%20kid%20dancing%20at%20club.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1722954613",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	31: {
+		wallpaperName: "John Sena - Cupid",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/John%20Cena%20-%20%20Cupid_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/John%20Cena%20-%20%20Cupid.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2973197117",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	32: {
+		wallpaperName: "Arknight",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Arknights_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Arknights.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2961607118",
+		tag: "Games",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	33: {
+		wallpaperName: "Goku Sunset",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Goku%20Sunset_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Goku%20Sunset.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3188685714",
+		tag: "Games",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	34: {
+		wallpaperName: "Eternal Return",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Eternal%20Return%20season9_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Eternal%20Return%20season9.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2959281193",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	35: {
+		wallpaperName: "Kevin Hart",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Kevin%20Hart_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Kevin%20Hart.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3180991951",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	36: {
+		wallpaperName: "Нагиев Devil May Cry",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/%D0%9D%D0%B0%D0%B3%D0%B8%D0%B5%D0%B2%20Devil%20May%20Cry_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/%D0%9D%D0%B0%D0%B3%D0%B8%D0%B5%D0%B2%20Devil%20May%20Cry.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3123403730",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	37: {
+		wallpaperName: "Limbus Company",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/%5BLimbusCompany%5D%20Live2D%20LCCB%20Ryoshu%20by%20%EB%A8%B8%ED%84%B0%EC%8B%9C_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/%5BLimbusCompany%5D%20Live2D%20LCCB%20Ryoshu%20by%20%EB%A8%B8%ED%84%B0%EC%8B%9C.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3102996842",
+		tag: "Games",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	38: {
+		wallpaperName: "Neco Arc - A Thousand Miles",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/A%20Thousand%20Miles%20-%20Neco%20arc%20(FULL%20VERSION)_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/A%20Thousand%20Miles%20-%20Neco%20arc%20(FULL%20VERSION).mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3128836288",
+		tag: "Neco Arc",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	39: {
+		wallpaperName: "Team Fortress 2 - EMESIS BLUE",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/EMESIS%20BLUE%20%5BEDIT%5D%20TF%202_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/EMESIS%20BLUE%20%5BEDIT%5D%20TF%202.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3041112055",
+		tag: "Games",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	40: {
+		wallpaperName: "Stanced 240sx",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Stanced%20240sx%20&%20e36%20drift%20by%20Max%20Panysh_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Stanced%20240sx%20&%20e36%20drift%20by%20Max%20Panysh.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2944837576",
+		tag: "Cars",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	41: {
+		wallpaperName: "Arnold Schwarzenegger",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Arnold%20Schwarzenegger%20bicep_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Arnold%20Schwarzenegger%20bicep.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3059697475",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	42: {
+		wallpaperName: "Vibe Fortress 2",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Vibe%20Fortress%202_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Vibe%20Fortress%202.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3068843368",
+		tag: "Games",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	43: {
+		wallpaperName: "Si Lan",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/SiLan_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/SiLan.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3082812120",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	44: {
+		wallpaperName: "Wide Putin",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/WidePutin_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/WidePutin.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3016918536",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	46: {
+		wallpaperName: "Chipi Chapa",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Chipi%20chipi%20chapa%20chapa%20animated_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Chipi%20chipi%20chapa%20chapa%20animated.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3120340754",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	47: {
+		wallpaperName: "Wanderer",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/%E8%BF%B7%E5%A4%B1%E5%A4%AA%E7%A9%BA_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/%E6%95%A3%E5%85%B5%E7%94%9F%E8%B4%BA%E5%9B%BE.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3120340754",
+		tag: "Games",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	48: {
+		wallpaperName: "Pedro Pedro",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Pedro_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Pedro.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3222134422",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	49: {
+		wallpaperName: "Statue",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/aryan%20clasic%20%20%20arno%20breker_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/aryan%20clasic%20%20%20arno%20breker.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3149060211",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	50: {
+		wallpaperName: "Lake an Sunset",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Lake%20an%20Sunset_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Lake%20an%20Sunset.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3094452410",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	51: {
+		wallpaperName: "T2x2",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Brooooooo_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Brooooooo.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3071608775",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	52: {
+		wallpaperName: "Sanabi",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/%EC%82%B0%EB%82%98%EB%B9%84(Sanabi)_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/%EC%82%B0%EB%82%98%EB%B9%84(Sanabi).mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3172783821",
+		tag: "Pixel Art",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	53: {
+		wallpaperName: "Lappland The Traveler",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Lappland%20The%20Traveler_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Lappland%20The%20Traveler.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2985644813",
+		tag: "Games",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	54: {
+		wallpaperName: "Huh Dog",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/huh%20dog.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/huh%20dog.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2916544077",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	55: {
+		wallpaperName: "Walther White Dancing",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Heisenberg,%20Walter%20white%20dancing_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Heisenberg,%20Walter%20white%20dancing.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3208760528",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	56: {
+		wallpaperName: "tf2",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/tf2_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/tf2.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3037960145",
+		tag: "Games",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	57: {
+		wallpaperName: "Miku Saul",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Miku%20saul_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Miku%20saul.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3018541659",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	58: {
+		wallpaperName: "Breaking Bad x Mario Kart",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Mario%20Kart%20Breaking%20Bad_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Mario%20Kart%20Breaking%20Bad.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2859577747",
+		tag: "Films",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	59: {
+		wallpaperName: "Pastel Mix",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Pastel%20Mix_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Pastel%20Mix.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2931757664",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	61: {
+		wallpaperName: "Russian Kid Dancing At Club",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Russian%20kid%20dancing%20at%20club_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Russian%20kid%20dancing%20at%20club.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1722954613",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	62: {
+		wallpaperName: "Mountain Ambience",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Mountain%20Ambience%20%5B4K%5D_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Mountain%20Ambience%20%5B4K%5D.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3183750365",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	63: {
+		wallpaperName: "Rain - Anime Person",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Rain%20-%20Anime%20person_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Rain%20-%20Anime%20person.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=889785902",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	64: {
+		wallpaperName: "Breaking Bad In Monster Inc",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Breaking%20Bad%20In%20Monsters%20Inc.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Breaking%20Bad%20In%20Monsters%20Inc.mp4",
+		wallpaperEngineLink: null,
+		tag: "Films",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	65: {
+		wallpaperName: "OneShot (Lofi Niko)",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/6ThwallpaperLossy.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/6ThwallpaperLossy.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2902679687",
+		tag: "Games",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	66: {
+		wallpaperName: "Alps Mountains - Windy & Snowing",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Alps%20Mountains%20-%20Windy%20&%20Snowing_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Alps%20Mountains%20-%20Windy%20&%20Snowing.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=828722349",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	68: {
+		wallpaperName: "Aquatic Landscape",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Aquatic%20Landscape_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Aquatic%20Landscape.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1308633726",
+		tag: "Fantastic",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	69: {
+		wallpaperName: "Beginning of Consciousness",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Beginning%20of%20Consciousness_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Beginning%20of%20Consciousness.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2957448569",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	70: {
+		wallpaperName: "Day and Night Restaurants",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Day%20and%20Night%20Restaurants_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Day%20and%20Night%20Restaurants.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2957448569",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	73: {
+		wallpaperName: "Ghost of Tsushima",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Ghost%20of%20Tsushima_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Ghost%20of%20Tsushima.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2183178278",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	74: {
+		wallpaperName: "Hatsune Miku 2",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Hatsune%20Miku%202%20%5BFlashing%20Warning%5D_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Hatsune%20Miku%202%20%5BFlashing%20Warning%5D.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2945859950",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	75: {
+		wallpaperName: "Japan City",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Japan%20City_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Japan%20City.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3004284800",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	76: {
+		wallpaperName: "Last Tree",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Last%20tree_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Last%20tree.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2634122795",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	77: {
+		wallpaperName: "Magical Stars",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Magical%20Star_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Magical%20Star.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2994130393",
+		tag: "Fantastic",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	78: {
+		wallpaperName: "Makima Doomer",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Makima%20Doomer_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Makima%20Doomer.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2911178046",
+		tag: "Fantastic",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	79: {
+		wallpaperName: "Memory of a Distant Place",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Memory%20of%20a%20Distant%20Place%20(OneShot)_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Memory%20of%20a%20Distant%20Place%20(OneShot).mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2677780545",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	80: {
+		wallpaperName: "Multicolor Cube",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Multicolor%20Cube_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Multicolor%20Cube.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1268450042",
+		tag: "Other",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	81: {
+		wallpaperName: "Niko at Greenhouse",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Niko%20in%20a%20Greenhouse%20(Audio)_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Niko%20in%20a%20Greenhouse%20(Audio).mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2584245878",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	82: {
+		wallpaperName: "Purple Night Sky",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/PURPLE%20NIGHT%20SKY%204K_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/PURPLE%20NIGHT%20SKY%204K.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3020093729",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	83: {
+		wallpaperName: "Passage To Safety",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Passage%20To%20Safety%20(Video)_preview.png?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Passage%20To%20Safety%20(Video).mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1442079623",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	83: {
+		wallpaperName: "Pixel",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Pixel_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Pixel.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2957166023",
+		tag: "PixelArt",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	83: {
+		wallpaperName: "Space",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Space_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Space.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1802288008",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	84: {
+		wallpaperName: "Sunset Horizon",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Sunset%20Horizon_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Sunset%20Horizon.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2670033228",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	85: {
+		wallpaperName: "Old Radio Tower",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/The%20Old%20Radio%20Tower_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/The%20Old%20Radio%20Tower.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2978167104",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	86: {
+		wallpaperName: "TwitchMOCA - Subway",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/TwitchMOCA_Subway_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/TwitchMOCA_Subway.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2963245957",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	}
+}
