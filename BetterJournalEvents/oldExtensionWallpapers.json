@@ -773,7 +773,7 @@
 		tag: "Nature",
 		forBigBoysOnly: false,
 		visible: true
-	}
+	},
 	91: {
 		wallpaperName: "Папич - The Lost Soul Down",
 		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/%D0%9F%D0%90%D0%9F%D0%98%D0%A7%20-%20The%20Lost%20Soul%20Down%20x%20Lost%20Soul_preview.gif?raw=true",
