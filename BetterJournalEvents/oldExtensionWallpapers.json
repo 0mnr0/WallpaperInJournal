@@ -737,5 +737,77 @@
 		tag: "Anime",
 		forBigBoysOnly: false,
 		visible: true
+	},
+	87: {
+		wallpaperName: "Wavy grass",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Wavy%20grass_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Wavy%20grass.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2858284176",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	88: {
+		wallpaperName: "Aryan Classic",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/aryan%20clasic%20%20%20arno%20breker_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/aryan%20clasic%20%20%20arno%20breker.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3149060211",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	89: {
+		wallpaperName: "Gray",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/gray_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/gray_we.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3030675413",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	90: {
+		wallpaperName: "Passage To Safety",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Passage%20To%20Safety%20(Video)_preview.png?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Passage%20To%20Safety%20(Video).mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1442079623",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	91: {
+		wallpaperName: "Нагиев под дождём",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/%D0%9D%D0%B0%D0%B3%D0%B8%D0%B5%D0%B2%20%D0%BF%D0%BE%D0%B4%20%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%BC_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/%D0%9D%D0%B0%D0%B3%D0%B8%D0%B5%D0%B2%20%D0%BF%D0%BE%D0%B4%20%D0%B4%D0%BE%D0%B6%D0%B4%D0%B5%D0%BC.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3026680999",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	92: {
+		wallpaperName: "Папич - The Lost Soul Down",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/%D0%9F%D0%90%D0%9F%D0%98%D0%A7%20-%20The%20Lost%20Soul%20Down%20x%20Lost%20Soul_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/%D0%9F%D0%90%D0%9F%D0%98%D0%A7%20-%20The%20Lost%20Soul%20Down%20x%20Lost%20Soul.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3017430013",
+		tag: "Mems",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	93: {
+		wallpaperName: "Evangelion - EVA",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/%E3%80%90EVANGELION%E3%80%91EVA%E6%96%B0%E4%B8%96%E7%BA%AA%E7%A6%8F%E9%9F%B3%E6%88%98%E5%A3%ABAsuka%E6%98%8E%E6%97%A5%E9%A6%99%E6%BC%AB%E7%94%BB%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8%20%E7%99%BE%E5%A4%8F%E5%87%BA%E5%93%81_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Evangelion.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3197745768",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	93: {
+		wallpaperName: "Evangelion - EVA",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/%E3%80%90EVANGELION%E3%80%91EVA%E6%96%B0%E4%B8%96%E7%BA%AA%E7%A6%8F%E9%9F%B3%E6%88%98%E5%A3%ABAsuka%E6%98%8E%E6%97%A5%E9%A6%99%E6%BC%AB%E7%94%BB%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8%20%E7%99%BE%E5%A4%8F%E5%87%BA%E5%93%81_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Evangelion.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3197745768",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
 	}
 }
