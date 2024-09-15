@@ -1,0 +1,21 @@
+body * {transition: all .3s}
+html, body, body * { scroll-behavior: smooth }
+body {background: #111111; font-family: "Nunito", sans-serif; color: white}
+
+.topPane {position: sticky; color: white; padding: 10px 35px; border-bottom: solid 1px #80808090; display: flex}
+.topPane h4 {margin-bottom: 0px; width: fit-content; padding: 0px 3px; font-weight: 800; margin-left: 10px}
+.topPane img.icon {max-height: 28px; border-radius: 3px}
+
+.InCenterText {padding: 10%; border-bottom: 1px solid #80808090; position: relative}
+.InCenterText h3 {text-align: center; font-weight: 700; font-size: xxx-large}
+.InCenterText p {text-align: center; font-size: large; color: #e1e1e1}
+.InCenterText p.mini {text-align: center; font-size: small; color: #e1e1e1; position: absolute; bottom: 0px; left: 0px; width: 100%; margin-bottom: 5px}
+
+
+.FeatureList {padding-top: 10px}
+.InformationBlock {border: solid 2px white; padding: 10px; margin: 0px 2% 10px 2%; border-radius: 16px; display: flex; position: relative}
+.InformationBlock .ImageIcon{max-width: 30px; aspect-ratio: 1/1; margin-right: 10px; height: max-content; border-radius: 6px; position: absolute; right: 0px}
+.InformationBlock.TalkTheme {border: none; padding: 0px; margin: 0px 2% 10px 2%; font-weight: 700; font-size: x-large}
+.InformationBlock span, .InformationBlock p {margin-bottom: 0px}
+.InformationBlock .title {font-weight: bold}
+.InformationBlock .descriptionBlock {display: flex; flex-direction: column}
