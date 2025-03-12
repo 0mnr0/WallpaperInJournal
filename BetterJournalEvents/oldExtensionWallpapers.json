@@ -73,11 +73,11 @@
 		visible: true
 	},
 	9: {
-		wallpaperName: "Demon Slayer",
-		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/%E9%AC%BC%E6%9D%80%E9%98%9F_x264.jpg?raw=true",
-		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/%E9%AC%BC%E6%9D%80%E9%98%9F_x264.mp4",
-		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1884879976",
-		tag: "Anime",
+		wallpaperName: "Sachiro",
+		wallpaperPreview: "https://raw.githubusercontent.com/0mnr0/WallpaperInJournal/main/WallItems/PeterParkerEvilsDance.mp4",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/PeterParkerEvilsDance.jpg",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1550432551",
+		tag: "Mems",
 		forBigBoysOnly: false,
 		visible: true
 	},
@@ -703,11 +703,11 @@
 		visible: true
 	},
 	83: {
-		wallpaperName: "Space",
-		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Space_preview.jpg?raw=true",
-		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Space.mp4",
-		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1802288008",
-		tag: "Nature",
+		wallpaperName: "I dowt it",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/I_Dowt_it.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/I_Dowt_it.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3289551080",
+		tag: "Mems",
 		forBigBoysOnly: false,
 		visible: true
 	},
@@ -783,15 +783,6 @@
 		forBigBoysOnly: false,
 		visible: true
 	},
-	92: {
-		wallpaperName: "Evangelion - EVA",
-		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/%E3%80%90EVANGELION%E3%80%91EVA%E6%96%B0%E4%B8%96%E7%BA%AA%E7%A6%8F%E9%9F%B3%E6%88%98%E5%A3%ABAsuka%E6%98%8E%E6%97%A5%E9%A6%99%E6%BC%AB%E7%94%BB%E5%8A%A8%E6%80%81%E5%A3%81%E7%BA%B8%20%E7%99%BE%E5%A4%8F%E5%87%BA%E5%93%81_preview.gif?raw=true",
-		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Evangelion.mp4",
-		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3197745768",
-		tag: "Anime",
-		forBigBoysOnly: false,
-		visible: true
-	},
 	93: {
 		wallpaperName: "Free Grass",
 		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/FreeGrass_preview.jpg?raw=true",
@@ -816,6 +807,33 @@
 		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/refs/heads/main/WallItems/CaffeineClub%209.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3130176869",
 		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	96: {
+		wallpaperName: "MarBlue",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Marblue.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/refs/heads/main/WallItems/Marblue.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3421606881",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	97: {
+		wallpaperName: "Mountain Night",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/MountainNight?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/refs/heads/main/WallItems/MountainNight.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3272717573",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	98: {
+		wallpaperName: "Mountain Night",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/MountainNight?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/refs/heads/main/WallItems/MountainNight.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3272717573",
+		tag: "Anime",
 		forBigBoysOnly: false,
 		visible: true
 	}
