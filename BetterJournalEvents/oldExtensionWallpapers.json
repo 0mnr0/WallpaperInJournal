@@ -74,8 +74,8 @@
 	},
 	9: {
 		wallpaperName: "Sachiro",
-		wallpaperPreview: "https://raw.githubusercontent.com/0mnr0/WallpaperInJournal/main/WallItems/PeterParkerEvilsDance.mp4",
-		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/PeterParkerEvilsDance.jpg",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/PeterParkerEvilsDance.jpg",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/PeterParkerEvilsDance.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1550432551",
 		tag: "Mems",
 		forBigBoysOnly: false,
