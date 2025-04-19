@@ -1,5 +1,7 @@
 {
 	"serverUrl": "https://journalui.ru",
 	"CanBuySub": false,
-	"onMaintaince": false
+	"onMaintaince": false,
+	"subCost": 119,
+	"discount": 0
 }
