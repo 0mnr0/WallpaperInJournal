@@ -4,5 +4,11 @@
 		"action": "toast",
 		"text": "This is example toast",
 		"debug": true
+	}, 
+	"1": {
+		"id": "warn",
+		"action": "toast",
+		"text": "После выхода патча 0.9.0, серверная авторизация для версий <= 0.8.2 будет отключена",
+		"debug": false
 	}
 }
