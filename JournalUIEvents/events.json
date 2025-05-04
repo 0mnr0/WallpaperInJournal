@@ -5,26 +5,5 @@
 		"text": "This is example toast",
 		"debug": true,
 		"versions": "Can be: ['0.8.2', '0.7.0'...], '*' and '!0.9.0'"
-	}, 
-	"1": {
-		"id": "warn",
-		"action": "toast",
-		"text": "После выхода патча 0.9.0, серверная авторизация для версий <= 0.8.2 будет отключена",
-		"debug": false,
-		"versions": ["0.9.0", "0.9.2"]
-	}, 
-	"2": {
-		"id": "warn",
-		"action": "toast",
-		"text": "\"*\" Id Toast ",
-		"debug": false,
-		"versions": "*"
-	}, 
-	"3": {
-		"id": "warn",
-		"action": "toast",
-		"text": "\"Not 0.9.0\" Id Toast ",
-		"debug": false,
-		"versions": "!0.9.0"
 	}
 }
