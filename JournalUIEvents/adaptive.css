@@ -1,1 +1,2 @@
 i.fas.fa-eye, .header-contacts {display: none}
+.homeworkFilePreview .FileViewer .preview div:nth-child(1) {display: block !important}
