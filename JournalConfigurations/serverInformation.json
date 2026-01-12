@@ -3,6 +3,6 @@
 	"CanBuySub": true,
 	"onMaintaince": false,
 	"subCost": 119,
-	"discount": 100,
-	"GiveAwayFreeDays": 25
+	"discount": 50,
+	"GiveAwayFreeDays": 0
 }
