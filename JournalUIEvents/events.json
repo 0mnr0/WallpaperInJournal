@@ -5,12 +5,5 @@
 		"text": "This is example toast",
 		"debug": true,
 		"versions": "Can be: ['0.8.2', '0.7.0'...], '*' and '!0.9.0'"
-	},
-	"1": {
-		"id": "history",
-		"action": "toast",
-		"text": "Разработчики Journal поломали верхнюю панель. Обновление которое я хотел выпустить в эти дни откладывается из-за <a href='https://journalui.ru/siteupdates' target='_blank'> большого количества ошибок. </a>",
-		"debug": false,
-		"versions": "*"
 	}
 }
